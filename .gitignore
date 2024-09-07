@@ -23,3 +23,12 @@ go.work.sum
 
 # env file
 .env
+
+conf.json
+selenium/img
+selenium/log
+img
+
+main
+qwflow
+
